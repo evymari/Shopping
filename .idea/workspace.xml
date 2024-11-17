@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26121763-9a1b-4ba9-b01e-0639c7b29699" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shopping/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shopping/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shopping/FoodProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shopping/FreeProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shopping/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseDatos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shooping/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shooping/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shooping/FoodProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shooping/FreeProductTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oh99ssS1fK3bSWWnVmT9GNQ1nz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baseDatos.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FoodProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FoodProductTest.foodProductHasNameAndDiscount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FoodProductTest.foodProductHasNameAndPrice.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FreeProductTest.elPrecioDeProductosGratuitosEsSiempreCero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FreeProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FreeProductTest.thePriceOfFreeProductsHasANameAndAPrice.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FreeProductTest.thePriceOfFreeProductsIsAlwaysZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Shooping in shopping.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mr456/OneDrive/Desktop/nuevo-botcamp/shopping/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Shopping" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookTest.bookHasAnAthorAndDescription">
+    <configuration name="BookTest.bookHasAnAthorAndDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shooping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shooping" />
+      <option name="MAIN_CLASS_NAME" value="Shooping.BookTest" />
+      <option name="METHOD_NAME" value="bookHasAnAthorAndDescription" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shooping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shooping" />
+      <option name="MAIN_CLASS_NAME" value="Shooping.FoodProductTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodProductTest.foodProductHasNameAndDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shooping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shooping" />
+      <option name="MAIN_CLASS_NAME" value="Shooping.FoodProductTest" />
+      <option name="METHOD_NAME" value="foodProductHasNameAndDiscount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodProductTest.foodProductHasNameAndPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shooping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shooping" />
+      <option name="MAIN_CLASS_NAME" value="Shooping.FoodProductTest" />
+      <option name="METHOD_NAME" value="foodProductHasNameAndPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shooping in shopping" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shooping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shooping" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookTest.bookHasAnAthorAndDescription" />
+        <item itemvalue="JUnit.Shooping in shopping" />
+        <item itemvalue="JUnit.FoodProductTest.foodProductHasNameAndPrice" />
+        <item itemvalue="JUnit.FoodProductTest.foodProductHasNameAndDiscount" />
+        <item itemvalue="JUnit.FoodProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26121763-9a1b-4ba9-b01e-0639c7b29699" name="Changes" comment="" />
+      <created>1731310795321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731310795321</updated>
+    </task>
+    <servers />
+  </component>
+</project>
