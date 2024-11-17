@@ -67,14 +67,14 @@ shopping-kata/
 ├── src/
 │   ├── main/
 │   │   └── java/
-│   │       ├── baseDatos/         # Clases principales (Product, Cart, etc.)
-│   │       └── Shopping/          # Funciones auxiliares
+│   │       ├── baseDatos/         
+│   │       └── Shopping/          
 │   └── test/
 │       └── java/
-│           └── tests/          # Pruebas unitarias
-├── README.md                   # Este archivo
-├── build.gradle / pom.xml      # Configuración del proyecto
-└── .gitignore                  # Archivos ignorados por Git
+│           └── tests/          
+├── README.md                   
+├── build.gradle / pom.xml      
+└── .gitignore                 
 
 📄 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
@@ -85,7 +85,10 @@ markdown
 Copiar código
 
 **Nota:**  
-## 📝 **Diagramas en Draw.io**
+
+```
+
+## 📝 Diagramas en Draw.io
 
 Para ver y editar los diagramas del proyecto, utiliza el siguiente enlace a Draw.io:
 
